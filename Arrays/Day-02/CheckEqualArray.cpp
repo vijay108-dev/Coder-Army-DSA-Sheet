@@ -7,6 +7,7 @@
 // Input: a[] = [1, 2, 5, 4, 0], b[] = [2, 4, 5, 0, 1]
 // Output: true
 // Explanation: Both the array can be rearranged to [0,1,2,4,5]
+
 // Input: a[] = [1, 2, 5], b[] = [2, 4, 15]
 // Output: false
 // Explanation: a[] and b[] have only one common value.
